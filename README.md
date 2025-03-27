@@ -4,8 +4,8 @@ ReservaJa é um sistema web desenvolvido em **Django** para facilitar o agendame
 
 ## 🛠 Tecnologias Utilizadas
 - **Backend:** Django, Django REST Framework
-- **Banco de Dados:** SQLite (padrão), podendo ser substituído por PostgreSQL ou MySQL
-- **Frontend:** HTML, CSS, JavaScript (pode ser substituído por um framework como React ou Vue.js no futuro)
+- **Banco de Dados:** Postgress
+- **Frontend:** HTML, CSS, JavaScript
 - **Autenticação:** Django Authentication
 
 ## 🚀 Funcionalidades
