@@ -2,4 +2,5 @@
 Projeto web desenvolvido para atender a necessidade de agendar horários de quadras
 
 Diagrama de Caso de Uso:
-![Captura de tela 2025-03-24 175721](https://github.com/user-attachments/assets/66d25765-d4cb-4ce0-aeed-786b62f4dc87)
+![image](https://github.com/user-attachments/assets/eeeebbc8-3d6a-445c-b973-f28980c3ed4b)
+
