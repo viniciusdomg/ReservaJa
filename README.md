@@ -1,4 +1,4 @@
-[site_de_reserva_requisitos_0.5.pdf](https://github.com/user-attachments/files/19504251/site_de_reserva_requisitos_0.5.pdf)# ReservaJa
+# ReservaJa
 
 ReservaJa é um sistema web desenvolvido em **Django** para facilitar o agendamento de quadras esportivas. O projeto permite que usuários realizem reservas, consultem disponibilidades e administrem agendamentos de forma simples e intuitiva.
 
