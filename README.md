@@ -26,7 +26,8 @@ ReservaJa é um sistema web desenvolvido em **Django** para facilitar o agendame
 
 
 ### 📌 Diagrama de Classes:
-![IMG-20250327-WA0026](https://github.com/user-attachments/assets/2095a92b-080c-43ba-94a4-03fff41fd8a2)
+![Class Diagram0](https://github.com/user-attachments/assets/40498b28-14c9-43a4-b6b0-8aa8677b5dac)
+
 
 ---
 
