@@ -40,7 +40,7 @@ cd ReservaJa
 
 # Crie um ambiente virtual e ative
 python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+venv\Scripts\Activate  # No Windows: venv\Scripts\activate
 
 # Instale as dependências
 pip install -r requirements.txt
