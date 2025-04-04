@@ -56,3 +56,7 @@ python manage.py runserver
 
 # Acesse a aplicação pelo navegador:
 # http://127.0.0.1:8000
+
+## Templetes
+https://rocket-django-pro.onrender.com/crud/products/
+https://adminlte-django.appseed-srv1.com/
