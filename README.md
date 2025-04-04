@@ -60,3 +60,5 @@ python manage.py runserver
 ## Templetes
 https://rocket-django-pro.onrender.com/crud/products/
 https://adminlte-django.appseed-srv1.com/
+
+https://www.figma.com/design/R4NBBDO4TzDulzqnK1Qn2E/pa1?node-id=0-1&p=f&t=zJChOC4m0C44xz4B-0
